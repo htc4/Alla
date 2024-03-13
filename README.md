@@ -53,11 +53,11 @@ Upon entering the department, it brings us the famous sushi and rolls, which are
 ### Description
 The "About Us" section describes the page and organization for information. It provides contact information for ordering food.
 
-### Description
-The section is intended for e-mail. to log in by mail․
+
 ## Log in
 ![alt text](<https://github.com/htc4/Alla/blob/main/Images/log%20in.png>)
-
+### Description
+The section is intended for e-mail. to log in by mail․
 ## Overview
 "The main aim and the goal of our company is to provide customers with high quality service and we do our best to reach the highest results" - this is the slogan with which the company has been working from the very beginning of its creation up to these days.
 Founding director of the hot food company: Alla Arakelyan.
