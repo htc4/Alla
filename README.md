@@ -1,4 +1,33 @@
+
 # Hot Food
+## Folder Structure
+```
+.
+├── Component
+│   ├── css
+│   │   └── navigation.css
+│   ├── images
+│   │   └── bg-image.png
+│   ├── js
+│   │   └── navigation.js
+│   └── navigation.html
+├── AboutUs
+│   ├── about us.html
+│   ├── about us.css
+│   └── about us.js
+├── Menu
+│   ├── menu.html
+│   ├──  menu.css
+│   └──  menu.js
+├── SushiRolls
+│   ├── sushirolls.html
+│   ├── sushirolls.css
+│   └── sushirolls.js
+├── Login
+│   ├── login.html
+│   ├── login.css
+│   └── login.js
+```
 ## Home page
 ![alt text](<https://github.com/htc4/Alla/blob/main/Images/menu.png>)
 
