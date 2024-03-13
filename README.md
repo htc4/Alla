@@ -55,3 +55,7 @@ The "About Us" section describes the page and organization for information. It p
 
 ## Log in
 ![alt text](<https://github.com/htc4/Alla/blob/main/Images/log%20in.png>)
+
+## Overview
+"The main aim and the goal of our company is to provide customers with high quality service and we do our best to reach the highest results" - this is the slogan with which the company has been working from the very beginning of its creation up to these days.
+Founding director of the hot food company: Alla Arakelyan.
